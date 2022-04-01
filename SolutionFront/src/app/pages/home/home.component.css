@@ -1,0 +1,18 @@
+.mat-card {
+  max-width: 600px;
+}
+
+.img mat-card-image{
+  width: 50px;
+  height: auto;
+}
+
+.share-button {
+  margin: 0 10px 0 10px;
+}
+
+.information {
+  margin: auto;
+  max-width: 50%;
+  min-width: 300px;
+}

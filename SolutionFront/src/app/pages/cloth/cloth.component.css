@@ -1,0 +1,17 @@
+.tabla {
+  width: 50%;
+  margin:auto;
+  min-width: 300px;
+}
+
+.informacion .card-information{
+  width:60%;
+  max-width: 415px;
+  min-width: 300px;
+  margin: auto auto 70px auto;
+  height: auto;
+}
+
+.text-input-mat:first-of-type {
+  margin-right: 10px;
+}
